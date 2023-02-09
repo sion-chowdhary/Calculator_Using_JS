@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+.button{
+    width: 66px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.row{
+    font-family: 'Open Sans', sans-serif;
+    margin: 8px 0;
+}
+
+.row input{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 19px;
+    margin: 0;
+    width: 292px;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 7px;
+}
